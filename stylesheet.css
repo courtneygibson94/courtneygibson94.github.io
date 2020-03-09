@@ -33,7 +33,7 @@ a:hover{
     max-width: 800px;
     margin: 0 auto;
     padding:60px 0;
-    width:85%;
+   
 }
 h1, h2 {
     font-family: 'Courgette', cursive;
@@ -88,7 +88,7 @@ header {
     display:block;
     margin-right: auto;
     margin-left: auto;
-    width: 50%;
+    max-width: 50%;
 }
 /*Education styles
     -------------------
@@ -96,7 +96,7 @@ header {
 .edu{
     display:grid;
     max-width:800px;
-    width:85%;
+    
     justify-self: center;
     margin: 0 200px;
     
