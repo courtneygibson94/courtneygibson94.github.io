@@ -138,6 +138,6 @@ footer img{
     .education-cert {
         display: grid;
         grid-template-columns: 1fr 2fr;
-        
+        margin-left:20px;
         justify-items: end;
     }
