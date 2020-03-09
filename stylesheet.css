@@ -131,7 +131,7 @@ footer h2{
     .edu {
         display: grid;
         max-width: 800px;
-        width: 85%;
+        
         justify-self: center;
         margin: 20px 200px;
     }
