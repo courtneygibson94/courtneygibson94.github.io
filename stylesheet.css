@@ -93,19 +93,7 @@ header {
 /*Education styles
     -------------------
 */
-.edu{
-    display:grid;
-    max-width:800px;
-    
-    justify-self: center;
-    margin: 0 200px;
-    
-}
-.education-cert {
-    display: grid;
-    grid-template-columns: 1fr 2fr ;
-    margin: 0px;
-    justify-items:end ;
+
 
     
 }
@@ -141,3 +129,19 @@ footer img{
 .res{
     border-radius:50%;
 }
+
+@media screen and (min-width:750px){
+    .edu {
+        display: grid;
+        max-width: 800px;
+        width: 85%;
+        justify-self: center;
+        margin: 0 200px;
+    }
+
+    .education-cert {
+        display: grid;
+        grid-template-columns: 1fr 2fr;
+        margin: 0px;
+        justify-items: end;
+    }
