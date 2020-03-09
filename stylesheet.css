@@ -19,7 +19,7 @@ body {
     line-height:1.5;
 }
 img{
-    width:300px;
+    max-width:300px;
     
 }
 a {
@@ -30,9 +30,10 @@ a:hover{
 }
 
 .header-wrap { /* centers text*/
-    width: 800px;
+    max-width: 800px;
     margin: 0 auto;
     padding:60px 0;
+    width:85%;
 }
 h1, h2 {
     font-family: 'Courgette', cursive;
@@ -94,7 +95,8 @@ header {
 */
 .edu{
     display:grid;
-    width:800px;
+    max-width:800px;
+    width:85%;
     justify-self: center;
     margin: 0 200px;
     
@@ -131,7 +133,8 @@ footer {
        
     }
 footer img{
-    width:100px;
+    max-width:100px;
+    
 
 
 }
