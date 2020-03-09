@@ -131,9 +131,9 @@ footer h2{
     .edu {
         display: grid;
         max-width: 800px;
-        
         justify-self: center;
-        margin: 20px 200px;
+        margin: 0 auto;
+        padding:60px 0;
     }
 
     .education-cert {
