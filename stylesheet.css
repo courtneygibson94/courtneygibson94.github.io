@@ -119,11 +119,12 @@ footer {
 footer img{
     max-width:100px;
     
-
-
 }
 .res{
     border-radius:50%;
+}
+footer h2{
+    justify-content:left;
 }
 
 @media screen and (min-width:750px){
