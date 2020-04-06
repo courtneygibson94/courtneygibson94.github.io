@@ -142,3 +142,10 @@ footer h2{
         margin-left:20px;
         justify-items: end;
     }
+ 
+     img{
+      display:grid;
+      justify-self:center;
+      max-width:300px;
+    }
+}
