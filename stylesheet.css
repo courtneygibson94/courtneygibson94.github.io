@@ -18,6 +18,9 @@ body {
     font-size:15px;
     line-height:1.5;
 }
+img{
+      max-width:300px;
+}
 
 a {
     color: #efd0ca;
@@ -140,10 +143,5 @@ footer h2{
         justify-items: end;
     }
  
-     img{
-      display:grid;
-      justify-self:center;
 
-      max-width:300px;
-    }
 }
