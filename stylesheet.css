@@ -84,7 +84,7 @@ video{
     margin:5px 20px ;
 }
 
- 
+
    
 
 
@@ -152,6 +152,9 @@ footer h2{
         margin-left:20px;
         justify-items: end;
     }
+   .cent{
+        align-items:center;
+  }
  
 
 }
